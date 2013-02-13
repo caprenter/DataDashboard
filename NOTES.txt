@@ -1,0 +1,66 @@
+ Log
+ Dates not in correct format
+ Lat Lng not lat lng
+ Column headings fucked up
+ 
+ Bugs:
+ Stage_1 map
+ Stage 2 timeline
+ 
+ Dashboard - new suggested metric number is a filter
+ 
+ Active projects could be a count! - but not in the data provided.
+ 
+ 
+ 
+ 
+ "http://bntest.vm.bytemark.co.uk/david/nominet/website/exhibit_backend.php#eyJub3JtYWxpemVkIjp0cnVlLCJ0aXRsZSI6Ik5vbWluZXQgVHJ1c3Qge1NlbGVjdCBvbmx5IFdlYiBBY2Nlc3MgaW4gZmFjZXQgQXJlYSBPZiBGb2N1c30iLCJ1cmwiOiJodHRwOi8vYm50ZXN0LnZtLmJ5dGVtYXJrLmNvLnVrL2RhdmlkL25vbWluZXQvd2Vic2l0ZS9leGhpYml0X2JhY2tlbmQucGhwIiwiaGFzaCI6Ii4vL2RhdmlkL25vbWluZXQvd2Vic2l0ZS9leGhpYml0X2JhY2tlbmQucGhwPyZfc3VpZD0xMzU5NjU3MDg0MjY5MDg4MTExOTAxNzgyNzk2ODYiLCJkYXRhIjp7ImNvbXBvbmVudHMiOnsiZmFjZXQtbGlzdC0uRnVuZGluZ1JvdW5kLWRlZmF1bHQtMCI6eyJ0eXBlIjoiZmFjZXQiLCJzdGF0ZSI6eyJzZWxlY3Rpb24iOltdLCJzZWxlY3RNaXNzaW5nIjpmYWxzZX19LCJmYWNldC1saXN0LS5BcmVhT2ZGb2N1cy1kZWZhdWx0LTEiOnsidHlwZSI6ImZhY2V0Iiwic3RhdGUiOnsic2VsZWN0aW9uIjpbIldlYiBBY2Nlc3MiXSwic2VsZWN0TWlzc2luZyI6ZmFsc2V9fSwiZmFjZXQtbnVtZXJpY3JhbmdlLS5HcmFudEFtb3VudC1kZWZhdWx0LTIiOnsidHlwZSI6ImZhY2V0Iiwic3RhdGUiOnsicmFuZ2VzIjpbXX19LCJmYWNldC1saXN0LS5UeXBlX29mX0ludmVzdG1lbnQtZGVmYXVsdC0zIjp7InR5cGUiOiJmYWNldCIsInN0YXRlIjp7InNlbGVjdGlvbiI6W10sInNlbGVjdE1pc3NpbmciOmZhbHNlfX0sImZhY2V0LW51bWVyaWNyYW5nZS0uVG90YWxCZW5lZmljaWFyaWVzQW50aWNpcGF0ZWQtZGVmYXVsdC00Ijp7InR5cGUiOiJmYWNldCIsInN0YXRlIjp7InJhbmdlcyI6W119fSwiZmFjZXQtbGlzdC0uT3JnYW5pc2F0aW9uX3R5cGUtZGVmYXVsdC01Ijp7InR5cGUiOiJmYWNldCIsInN0YXRlIjp7InNlbGVjdGlvbiI6W10sInNlbGVjdE1pc3NpbmciOmZhbHNlfX0sImZhY2V0LW51bWVyaWNyYW5nZS0ub3JnYW5pc2F0aW9uX3N0YWZmLWRlZmF1bHQtNiI6eyJ0eXBlIjoiZmFjZXQiLCJzdGF0ZSI6eyJyYW5nZXMiOltdfX0sImZhY2V0LWxpc3QtLnByb2plY3RfYXBwbGljYW50X2NhdGVnb3J5LWRlZmF1bHQtNyI6eyJ0eXBlIjoiZmFjZXQiLCJzdGF0ZSI6eyJzZWxlY3Rpb24iOltdLCJzZWxlY3RNaXNzaW5nIjpmYWxzZX19LCJmYWNldC1saXN0LS5wcm9qZWN0X2FwcGxpY2FudF9zdWJjYXRlZ29yeS1kZWZhdWx0LTgiOnsidHlwZSI6ImZhY2V0Iiwic3RhdGUiOnsic2VsZWN0aW9uIjpbXSwic2VsZWN0TWlzc2luZyI6ZmFsc2V9fSwiZmFjZXQtdGV4dC0tZGVmYXVsdC05Ijp7InR5cGUiOiJmYWNldCIsInN0YXRlIjp7InRleHQiOm51bGx9fSwidGh1bWJuYWlsLWRlZmF1bHQtMCI6eyJ0eXBlIjoidmlldyIsInN0YXRlIjp7Im9yZGVyZWRWaWV3RnJhbWUiOnsib3JkZXJzIjpbeyJwcm9wZXJ0eSI6ImxhYmVsIiwiZm9yd2FyZCI6dHJ1ZSwiYXNjZW5kaW5nIjp0cnVlfV0sInNob3dBbGwiOnRydWUsInNob3dEdXBsaWNhdGVzIjpmYWxzZSwiZ3JvdXBlZCI6dHJ1ZSwicGFnZSI6MH19fSwidmlld1BhbmVsLWRlZmF1bHQtMCI6eyJ0eXBlIjoidmlld1BhbmVsIiwic3RhdGUiOnsidmlld0luZGV4IjowfX19LCJzdGF0ZSI6MSwibGVuZ3RoeSI6dHJ1ZX0sImlkIjoiMTM1OTY1NzA4NDI2OTA4ODExMTkwMTc4Mjc5Njg2IiwiY2xlYW5VcmwiOiJodHRwOi8vYm50ZXN0LnZtLmJ5dGVtYXJrLmNvLnVrL2RhdmlkL25vbWluZXQvd2Vic2l0ZS9leGhpYml0X2JhY2tlbmQucGhwIiwiaGFzaGVkVXJsIjoiaHR0cDovL2JudGVzdC52bS5ieXRlbWFyay5jby51ay9kYXZpZC9ub21pbmV0L3dlYnNpdGUvL2RhdmlkL25vbWluZXQvd2Vic2l0ZS9leGhpYml0X2JhY2tlbmQucGhwPyZfc3VpZD0xMzU5NjU3MDg0MjY5MDg4MTExOTAxNzgyNzk2ODYifQ==");
+ 
+ 
+ 
+                <!--<td><div ex:role="facet" ex:expression=".FundingRound" ex:facetLabel="Funding Round"></div></td>-->
+                
+               <!-- <td><div ex:role="facet" ex:expression=".Type_of_Investment" ex:facetLabel="Type of Investment"></div></td>
+                <td><div ex:role="facet" ex:expression=".TotalBeneficiariesAnticipated" ex:facetLabel="Total Beneficiaries Anticipated" ex:facetClass="NumericRange" ex:interval="500"></div></td>-->
+                
+                <!--<td><div ex:role="facet" ex:expression=".project_applicant_category" ex:facetLabel="Project Applicant Category"></div></td>-->
+                
+                <!--<td><div ex:role="facet" ex:expression="month(.dateTime)" ex:fixedOrder="Jan;Feb;Mar;Apr;May;Jun;Jul;Aug;Sep;Oct;Nov;Dec" ex:facetLabel="Month of Year"></div></td>-->
+                
+                <td><div ex:role="facet" ex:expression=".AreaOfFocus" ex:facetLabel="Area Of Focus"></div></td>
+                <td><div ex:role="facet" ex:facetLabel="Grant Amount" ex:expression=".GrantAmount" ex:facetClass="NumericRange" ex:interval="50000"></div></td>
+                <td><div ex:role="facet" ex:expression=".Organisation_type" ex:facetLabel="Organisation type"></div></td>
+                <td><div ex:role="facet" ex:expression=".organisation_staff" ex:facetLabel="Organisation Staff" ex:facetClass="NumericRange" ex:interval="50"></div></td>
+                <td><div ex:role="facet" ex:expression=".project_applicant_subcategory" ex:facetLabel="Project Applicant Subcategory"></div></td>
+                <td><div ex:role="facet" ex:facetClass="TextSearch" ex:facetLabel="Search"></div></td>
+                
+                
+                {
+  "properties": {
+    "ProjectStartDate": {
+      "valueType": "date"
+    },
+    
+    
+                            <span ex:content=".ProjectSummary" class="discipline"></span><br/>
+                        <span>Beneficiary Region: </span><span ex:content=".BeneficiaryRegion" class="discipline"></span><br/>
+                        <!--<span>Setting: </span><span ex:content=".Setting" class="discipline"></span><br/>-->
+                        <span>Total Beneficiaries (Anticipated): </span><span ex:content=".TotalBeneficiariesAnticipated" class="discipline"></span><br/>
+                        <span>Total Beneficiaries (Actual): </span><span ex:content=".TotalBeneficiariesActual" class="discipline"></span><br/>
+                        <span>Area Of Focus: </span><span ex:content=".AreaOfFocus" class="discipline"></span><br/>
+                        <span>Grant Amount: &pound;</span><span ex:content=".GrantAmount" class="discipline"></span><br/>
+                        <span>Output Type: </span><span ex:content=".OutputType" class="discipline"></span><br/>
+                        
+                        
+                        
+                        
+                        
+                                            <div>
+                        (<span ex:content=".Organisation" class="discipline"></span>)<br/>
+                        <span ex:content=".ProjectSummary" ex:formats ="text {max-length:250}"class="discipline"></span><br/><br/>
+                        <span>Anticipated Beneficiaries: </span><span ex:content=".TotalBeneficiariesAnticipated" class="discipline"></span><br/> 
+                        <span ex:content=".AreaOfFocus" class="discipline"></span><br/>
+                        <span>&pound;</span><span ex:content=".GrantAmount" class="discipline"></span><br/>
+                        From <span ex:content=".ProjectStartDate"  ex:formats ="date {mode:short; show : date}" class="discipline"></span> to <span  ex:content=".ProjectEndDate" ex:formats ="date {mode:short; show : date}" class="discipline"></span><br/>
+                        <span>Location On Shared Drive: </span><a ex:href-subcontent="file:{{.LocationOnSharedDrive}}" ><span ex:content=".filename" class="discipline"></span></a>
+                    </div>

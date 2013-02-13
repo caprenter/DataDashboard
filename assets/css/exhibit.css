@@ -1,0 +1,78 @@
+body {
+  font-size: 75%;
+  margin: 0;
+  padding: 0;
+  font-family: "Lucida Grande","Tahoma","Helvetica","Arial",sans-serif;
+  color: #222;
+}
+h1,h2 {
+  margin:0;
+}
+table, tr, td {
+    font-size: inherit;
+}
+tr, td {
+    vertical-align: top;
+}
+img, a img {
+    border: none;
+}
+#main-content { background: white; }
+#title-panel { padding: 0.5in 0 0 0; clear:both }
+#top-panels {
+    padding:        0.5em 0.5in;
+    border-top:     1px solid #BCB79E;
+    border-bottom:  1px solid #BCB79E;
+    background:     #FBF4D3;
+    margin-bottom: 10px;
+}
+
+.exhibit-tileView-body { list-style: none; }
+.exhibit-collectionView-group-count { display: none; }
+
+table.nobelist {
+    border:     1px solid #ddd;
+    padding:    0.5em;
+    margin:     0.5em 0;
+    display:    block;
+}
+div.name {
+    font-weight: bold;
+    font-size:   120%;
+}
+.relationship {
+    color:  #888;
+}
+
+div.nobelist-thumbnail {
+    float:      left;
+    width:      26em;
+    height:     16em;
+    border:     1px solid #BCB79E;
+    background: #F0FFF0;
+    padding:    1em;
+    margin:     0.5em;
+    
+    overflow:hidden;
+}
+div.nobelist-timeline-lens {
+    padding:    1em;
+    text-align: center;
+}
+
+.metric-box {
+width:10em;
+float:left;
+text-align:center;
+padding:15px;
+}
+.metric-box .number {
+font-size:3em;
+}
+.metric-box .title {
+font-size:1.4em;
+margin-bottom:10px;
+}
+hr {
+clear:both;
+}

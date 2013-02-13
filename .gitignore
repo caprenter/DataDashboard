@@ -1,0 +1,4 @@
+exhibit_data/*.csv
+exhibit_data/*.json
+process_data/data/*.csv
+images/staff*
